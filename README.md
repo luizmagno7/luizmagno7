@@ -21,7 +21,7 @@ null instanceof Object // false
 #### Bora lá!
 
 Comecei minha vida na área de TI por influência do meu irmão. Com 16 anos, eu era o rapaz de informatica da minha rua kk
-Formatava PCs por ai (Sempre com lincença Microsoft 😉)
+Formatava PCs por ai (Sempre com licença Microsoft 😉)
 
 Me formei em 2015 em ciência da computação. Trabalho na área desde o segundo ano de faculdade.
 
@@ -32,7 +32,7 @@ Atuo como desenvolvedor Full-stack sobre a plataforma Oracle Commerce Cloud, fam
 
 #### Aprendizagem
 
-Constantemente estudanto javascript, node e react (o que mais uso no dia-a-dia).
+Constantemente estudando javascript, node e react (o que mais uso no dia-a-dia).
 
 #### Projeto
 
