@@ -20,19 +20,18 @@ null instanceof Object // false
 
 #### Bora lá!
 
-Comecei minha vida na área de TI por influência do meu irmão. Com 16 anos, eu era o rapaz de informatica da minha rua kk
-Formatava PCs por ai (Sempre com licença Microsoft 😉)
+Comecei na área de TI por influência do meu irmão, que me inspirou durante toda a minha infância. Com 16 anos, eu já era o rapaz da informática da minha rua e formatava PCs por aí (sempre com licença Microsoft 😉).
 
-Me formei em 2015 em ciência da computação. Trabalho na área desde o segundo ano de faculdade.
+Me formei em Ciência da Computação no ano 2015 e trabalho na área desde o segundo ano de faculdade.
 
 #### O que faço hj?
 
-Atualmente, eu faço parte do Grupo CAÁ. Trabalhando com ferramentas da Oracle.
-Atuo como desenvolvedor Full-stack sobre a plataforma Oracle Commerce Cloud, famoso OCC.
+Atualmente, faço parte do Grupo CAÁ e trabalho com ferramentas da Oracle. Atuo como desenvolvedor Full-stack na plataforma Oracle Commerce Cloud (famoso OCC).
+No entanto, já realizei alguns trabalhos com Oracle Analytics Cloud, Oracle Maxymiser e Oracle Content Management
 
 #### Aprendizagem
 
-Constantemente estudando javascript, node e react (o que mais uso no dia-a-dia).
+Estou constantemente estudando JavaScript, Node e React, que são as tecnologias que mais uso no dia a dia. Além disso, estou cursando o Rocketseat Ignite para me atualizar sobre ReactJS, NextJS, NodeJS, entre outras tecnologias.
 
 #### Projeto
 
